@@ -1,5 +1,5 @@
 ---
-title       : 
+title       : Test
 subtitle    : 
 author      : 
 job         : 
@@ -11,8 +11,9 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Read-And-YAYasdfasdf
 
+WHAT THE FUCK
 1. Edit YAML front matter
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
