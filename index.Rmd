@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-YAY
+## Read-And-YAYasdfasdf
 
 1. Edit YAML front matter
 2. Write using R Markdown
